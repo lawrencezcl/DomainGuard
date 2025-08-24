@@ -1,0 +1,16 @@
+# Directory structure placeholder
+# This file ensures the directory structure is created properly
+
+# Core source directories
+src/
+src/bots/
+src/contracts/
+src/database/
+src/services/
+src/routes/
+src/middleware/
+src/utils/
+tests/
+docs/
+logs/
+data/
